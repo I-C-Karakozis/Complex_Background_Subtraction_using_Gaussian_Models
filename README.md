@@ -1,9 +1,9 @@
-# 429_project
+# Complex Background Subtraction using Gaussian Models
 
 To install dependences, initialize a virtual environment and execute:  
 $ pip install -r requirements.txt
 
-The zip file test_data_dir holds the recommended directory structure for the dataset used.  
+The zip file docs/test_data_dir.gz holds the recommended directory structure for the dataset used.  
 To request the dataset used, please email Yannis Karakozis at [ick at princeton dot edu].  
 
 The core executables used to run the models are:  
